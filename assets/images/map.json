@@ -1,0 +1,148 @@
+{"frames": {
+
+"battlefield.png":
+{
+	"frame": {"x":668,"y":795,"w":80,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":54},
+	"sourceSize": {"w":80,"h":54}
+},
+"castle.png":
+{
+	"frame": {"x":130,"y":713,"w":162,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":162,"h":113},
+	"sourceSize": {"w":162,"h":113}
+},
+"graveyard.png":
+{
+	"frame": {"x":843,"y":713,"w":37,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":46},
+	"sourceSize": {"w":37,"h":46}
+},
+"hamlet.png":
+{
+	"frame": {"x":294,"y":713,"w":159,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":110},
+	"sourceSize": {"w":159,"h":110}
+},
+"map.png":
+{
+	"frame": {"x":1,"y":1,"w":1000,"h":710},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":710},
+	"sourceSize": {"w":1000,"h":710}
+},
+"mound.png":
+{
+	"frame": {"x":294,"y":825,"w":73,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":27},
+	"sourceSize": {"w":73,"h":27}
+},
+"mountain1.png":
+{
+	"frame": {"x":607,"y":795,"w":59,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":57},
+	"sourceSize": {"w":59,"h":57}
+},
+"mountain2.png":
+{
+	"frame": {"x":821,"y":765,"w":97,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":49},
+	"sourceSize": {"w":97,"h":49}
+},
+"mountain3.png":
+{
+	"frame": {"x":455,"y":809,"w":117,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":39},
+	"sourceSize": {"w":117,"h":39}
+},
+"sailingShip.png":
+{
+	"frame": {"x":607,"y":713,"w":65,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":80},
+	"sourceSize": {"w":65,"h":80}
+},
+"sunkenShip.png":
+{
+	"frame": {"x":674,"y":713,"w":67,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":73},
+	"sourceSize": {"w":67,"h":73}
+},
+"tower.png":
+{
+	"frame": {"x":1,"y":713,"w":127,"h":139},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":139},
+	"sourceSize": {"w":127,"h":139}
+},
+"tree1.png":
+{
+	"frame": {"x":777,"y":713,"w":30,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":72},
+	"sourceSize": {"w":30,"h":72}
+},
+"tree2.png":
+{
+	"frame": {"x":809,"y":713,"w":32,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":50},
+	"sourceSize": {"w":32,"h":50}
+},
+"tree3.png":
+{
+	"frame": {"x":743,"y":713,"w":32,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":72},
+	"sourceSize": {"w":32,"h":72}
+},
+"waterHorse.png":
+{
+	"frame": {"x":455,"y":713,"w":150,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":94},
+	"sourceSize": {"w":150,"h":94}
+},
+"waterRock.png":
+{
+	"frame": {"x":750,"y":787,"w":69,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":53},
+	"sourceSize": {"w":69,"h":53}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "map.png",
+	"format": "RGBA8888",
+	"size": {"w":1002,"h":853},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:168ff7ba7892625614c2ab46b5b1a3bd:39a6a04139d9b4b9738a51cd15fe75f8:68463c66230aaeb26021edb8ea8cd9b6$"
+}
+}
